@@ -2,15 +2,15 @@
   "name": "chartist",
   "title": "Chartist.js",
   "description": "Simple, responsive charts",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "author": "Gion Kunz",
-  "homepage": "https://gionkunz.github.io/chartist-js",
+  "homepage": "https://RojerUA.github.io/chartist-js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gionkunz/chartist-js.git"
+    "url": "https://github.com/RojerUA/chartist-js.git"
   },
   "bugs": {
-    "url": "https://github.com/gionkunz/chartist-js/issues"
+    "url": "https://github.com/RojerUA/chartist-js/issues"
   },
   "keywords": [
     "chartist",
@@ -29,7 +29,7 @@
   "licenses": [
     {
       "type": "WTFPL",
-      "url": "https://github.com/gionkunz/chartist-js/blob/master/LICENSE"
+      "url": "https://github.com/RojerUA/chartist-js/blob/master/LICENSE"
     }
   ],
   "dependencies": {},
